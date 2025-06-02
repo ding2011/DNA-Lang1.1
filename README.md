@@ -40,14 +40,13 @@ GGAA  # WRITE 0 (opcode GG, operand AA=0)
 2. Compile to Binary
 bash
   
-python dna_compiler.py input.dna output.bin  
+python dna_compiler.py your_dna_file.dna generated_bin_file.bin 
  
 
 3. Run Virtual Machine
 bash
   
-python vm.py output.bin  
- 
+python vm.py generated_bin_file.bin 
  
 Output:
 plaintext
