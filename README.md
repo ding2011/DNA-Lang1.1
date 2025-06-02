@@ -52,7 +52,7 @@ python vm.py output.bin
 Output:
 plaintext
   
-程序输出: 5  
+Output: 5  
  
  
 Instruction Set Reference
