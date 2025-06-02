@@ -1,0 +1,5 @@
+ATC   # PUSH 2  
+ATG   # PUSH 3  
+TT    # SUB  
+GGAA  # WRITE  
+ 
