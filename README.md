@@ -1,4 +1,4 @@
-# DNA-Lang1.1
+ # DNA-Lang1.1
 DNA-Lang: A Minimal Virtual Machine Language Based on DNA Bases
  
 License: MIT
@@ -31,10 +31,10 @@ Usage Guide
 dna
   
 Example: Calculate 3 + 2 = 5  
-ATG   # PUSH 3 (opcode AT, operand G=3)  
-ATC   # PUSH 2 (opcode AT, operand C=2)  
-TA    # ADD (opcode TA)  
-GGAA  # WRITE 0 (opcode GG, operand AA=0)  
+ATG   # PUSH 3 
+ATC   # PUSH 2   
+TA    # ADD
+GGAA  # WRITE 0 
  
 
 2. Compile to Binary
