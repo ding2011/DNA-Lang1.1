@@ -1,4 +1,4 @@
-ATG   # Push 3 (opcode AT, G=3)
-ATC   # Push 2 (opcode AT, C=2)
-TC    # Multiply (opcode TC, pop 2 then 3, compute 3×2, push 6)
-GGAA  # Write (opcode GG, output 6)
+ATG 
+ATC 
+TC    
+GGAA  
